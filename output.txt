@@ -1,0 +1,8 @@
+Caucasian Democrats Pivotal Vote %:		2.5%
+Caucasian Republicans Pivotal Vote %:		4.642857142857143%
+African-American Democrats Pivotal Vote %:		7.023809523809524%
+African-American Republicans Pivotal Vote %:		11.071428571428571%
+Asian-American Democrats Pivotal Vote %:		13.690476190476192%
+Asian-American Republicans Pivotal Vote %:		16.785714285714285%
+Hispanic Democrats Pivotal Vote %:		20.11904761904762%
+Hispanic Republicans Pivotal Vote %:		24.166666666666668%
